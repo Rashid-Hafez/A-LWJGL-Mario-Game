@@ -1,0 +1,61 @@
+luigiWalk.png
+size: 51, 1070
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luigi
+  rotate: false
+  xy: 0, 0
+  size: 51, 140
+  orig: 51, 140
+  offset: 0, 0
+  index: 0
+luigi
+  rotate: false
+  xy: 0, 140
+  size: 50, 132
+  orig: 50, 132
+  offset: 0, 0
+  index: 1
+luigi
+  rotate: false
+  xy: 0, 272
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 2
+luigi
+  rotate: false
+  xy: 0, 405
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 3
+luigi
+  rotate: false
+  xy: 0, 538
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 4
+luigi
+  rotate: false
+  xy: 0, 671
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 5
+luigi
+  rotate: false
+  xy: 0, 804
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 6
+luigi
+  rotate: false
+  xy: 0, 937
+  size: 51, 133
+  orig: 51, 133
+  offset: 0, 0
+  index: 7

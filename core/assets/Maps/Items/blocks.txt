@@ -1,0 +1,19 @@
+blocks.png
+size: 159, 21
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blocks
+  rotate: false
+  xy: 0, 0
+  size: 73, 21
+  orig: 73, 21
+  offset: 0, 0
+  index: -1
+question
+  rotate: false
+  xy: 73, 0
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1

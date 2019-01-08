@@ -1,0 +1,61 @@
+marioWalk.png
+size: 408, 100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mario
+  rotate: false
+  xy: 0, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 0
+mario
+  rotate: false
+  xy: 51, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 1
+mario
+  rotate: false
+  xy: 102, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 2
+mario
+  rotate: false
+  xy: 153, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 3
+mario
+  rotate: false
+  xy: 204, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 4
+mario
+  rotate: false
+  xy: 255, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 5
+mario
+  rotate: false
+  xy: 306, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 6
+mario
+  rotate: false
+  xy: 357, 0
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: 7

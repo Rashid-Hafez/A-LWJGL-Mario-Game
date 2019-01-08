@@ -1,0 +1,62 @@
+mMario_Walk.png
+size: 24, 243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mMario
+  rotate: false
+  xy: 0, 0
+  size: 19, 35
+  split: 5, 4, 9, 8
+  orig: 19, 35
+  offset: 0, 0
+  index: 1
+mMario
+  rotate: false
+  xy: 0, 35
+  size: 22, 35
+  split: 6, 5, 9, 8
+  orig: 22, 35
+  offset: 0, 0
+  index: 2
+mMario
+  rotate: false
+  xy: 0, 70
+  size: 22, 35
+  split: 11, 5, 9, 9
+  pad: 6, 5, 9, 8
+  orig: 22, 35
+  offset: 0, 0
+  index: 3
+mMario
+  rotate: false
+  xy: 0, 105
+  size: 22, 35
+  split: 6, 5, 9, 8
+  orig: 22, 35
+  offset: 0, 0
+  index: 4
+mMario
+  rotate: false
+  xy: 0, 140
+  size: 22, 35
+  split: 6, 5, 9, 8
+  orig: 22, 35
+  offset: 0, 0
+  index: 5
+mMario
+  rotate: false
+  xy: 0, 175
+  size: 24, 34
+  split: 6, 6, 9, 8
+  orig: 24, 34
+  offset: 0, 0
+  index: 6
+mMario
+  rotate: false
+  xy: 0, 209
+  size: 24, 34
+  split: 6, 6, 9, 8
+  orig: 24, 34
+  offset: 0, 0
+  index: 7
