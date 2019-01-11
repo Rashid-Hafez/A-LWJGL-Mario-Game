@@ -21,7 +21,7 @@ import com.mygdx.game.MyGdxGame;
  *@TODO Remake map add the coin room down the pipe.
  *add stuff
  *
- *@references: Brent tutorials and fixed up code
+ *@references: Brent tutorials on LWJGL
  *
  */
 public class DesktopLauncher {
